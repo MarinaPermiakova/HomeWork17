@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HomeWork17</string>
+
+    <string name="phrase">To be, or not to be.</string>
+    <string-array name="language">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+
+    <string-array name="color">
+        <item>Зеленый</item>
+        <item>Синий</item>
+        <item>Красный</item>
+    </string-array>
+</resources>
